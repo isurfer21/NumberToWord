@@ -4,6 +4,17 @@ Convert a number into words using Indian or western numbering system
 ## Development
 Clone the repository and run the below commands
 
+See the available make commands
+```
+make help
+```
+If it returns error, then you need to install `make` on your system.
+
+Clean the previous build residue, if required
+```
+make clean
+```
+
 ### Build
 Compile and create jar file
 ```
