@@ -1,4 +1,4 @@
-package com.ns;
+package systems;
 public class IndianSystem {
     private static String input;
     private static int num;

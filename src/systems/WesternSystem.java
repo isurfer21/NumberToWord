@@ -1,4 +1,4 @@
-package com.ns;
+package systems;
 public class WesternSystem {
     private static final String[] specialNames = {
         "",
