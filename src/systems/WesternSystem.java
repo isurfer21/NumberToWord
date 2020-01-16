@@ -59,7 +59,9 @@ public class WesternSystem {
             current = tensNames[number % 10] + current;
             number /= 10;
         }
-        if (number == 0) return current;
+        if (number == 0) {
+            return current;
+        }
         return numNames[number] + " hundred" + current;
     }
 
